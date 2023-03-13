@@ -74,11 +74,11 @@ Note:
 
 ## Approx agenda
 
-- 08.00 - 08.50 - Intro, OWASP, CWE/CVE and Juice-Shop
-- 09.00 - 09.50 - Risk A01
-- 10.00 - 10.50 - Risk A02 and Intro to risk A03
-- 11.00 - 11.30ish - **LUNCH**
-- 11.30 - 12.00 - Risk A03 - Demo SQLMap
-- 12.00 - 12.50 - Risk A04 / A05
-- 13.00 - 13.50 - Risk A06 / A07
-- 14.00 - 14.50 - Risk A08 / A09 / A10
+- 09.00 - 09.50 - Intro, OWASP, CWE/CVE and Juice-Shop
+- 10.00 - 10.50 - Risk A01
+- 11.00 - 11.50 - Risk A02 and Intro to risk A03
+- 12.00 - 12.30ish - **LUNCH**
+- 12.30 - 13.00 - Risk A03 - Demo SQLMap
+- 13.00 - 13.50 - Risk A04 / A05
+- 14.00 - 14.50 - Risk A06 / A07
+- 15.00 - 15.50 - Risk A08 / A09 / A10

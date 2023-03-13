@@ -30,7 +30,7 @@ Note:
 
 ---
 
-## CWE<br> helps with
+## CWE helps with
 
 - Describing and discuss software and hardware weaknesses in a common language
 - Checking for weaknesses in existing software and hardware products

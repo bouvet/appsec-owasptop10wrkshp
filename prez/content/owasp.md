@@ -65,7 +65,7 @@ domain OWASP.org, paid $20 for a hosting account, and I asked people to come hel
 
 ---
 
-## Mr. Hus - 🇳🇴
+## Mr. Huseby - 🇳🇴
 
 ![image](./content/images/mrhus.jpg)
 
