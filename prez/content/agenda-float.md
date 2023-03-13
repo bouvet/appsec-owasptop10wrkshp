@@ -10,3 +10,4 @@ Note:
 
 - Almost every slide has a section for more info and defences
 - You will get a PDF file at the end
+- Will be shared in slack group
