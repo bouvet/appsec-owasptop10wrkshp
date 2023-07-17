@@ -11,20 +11,21 @@ Note:
 
 ---
 
-- **`Admin Section`** - Access the administration section of the store
-  - Hint: Find the hidden admin section after logged in with admin rights <!-- .element: style="font-size:0.8em"-->
-  - Should be familiar with the admin password in both task 1 and 7 <!-- .element: style="font-size:0.8em"-->
-  - How did you find the score-board? <!-- .element: style="font-size:0.8em"-->
-
 - **`Five-Star Feedback`** - Get rid of all 5-star customer feedback
-  - Hint: Based on admin screen in previous task <!-- .element: style="font-size:0.8em"-->
+
+Note:
+
+- Hint: Based on admin screen in previous task <!-- .element: style="font-size:0.8em"-->
 
 ---
 
 - **`Forged Feedback`** - Post some feedback in another user's name
-  - Hint: How does the traffic look after posting some feedback? <!-- .element: style="font-size:0.8em"-->
 
 - **`Forged Review`** - Post a product review as another user or edit any user's existing review
+
+Note:
+
+- Hint: How does the traffic look after posting some feedback/product review? <!-- .element: style="font-size:0.8em"-->
 
 ---
 
@@ -33,6 +34,8 @@ Note:
 
 - **`Zero Stars`** - Give a devastating zero-star feedback to the store
 
-<!-- - **`Upload Size`** - Upload a file larger than 100 kB
+---
 
-- **`Upload Type`** - Upload a file that has no .pdf or .zip extension -->
+## More fun?
+
+- **`Score Board`** - Find the carefully hidden 'Score Board' page

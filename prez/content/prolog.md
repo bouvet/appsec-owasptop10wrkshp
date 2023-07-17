@@ -63,7 +63,7 @@ Note:
 ## What is - Security Champions
 
 - Newly started community in Bouvet Rogaland
-- 60+ members
+- 70+ members
 - Aim to train and give tools to it's members to adopt security in their daily work (SSDLC)
 - Be the voice of security within their team
   - Not their responsibility!

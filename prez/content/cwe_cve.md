@@ -20,7 +20,7 @@ Note:
 
 ## CWE
 
-- Community-developed list <!-- .element: style="font-size:0.9em"-->
+- Community-developed list
 - Common software and hardware weakness types that have security ramifications
   - “Weaknesses” are flaws, faults, bugs, or other errors in software or hardware implementation being vulnerable to attack <!-- .element: style="font-size:0.9em"-->
 
@@ -30,31 +30,30 @@ Note:
 
 ---
 
+### CWE - Example
+
+- [CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')](https://cwe.mitre.org/data/definitions/89.html)
+
+---
+
 ## CWE helps with
 
-- Describing and discuss software and hardware weaknesses in a common language
-- Checking for weaknesses in existing software and hardware products
+- Having a common language
+- Checking for weaknesses in existing products
 - Evaluating coverage of tools targeting these weaknesses
 - Leveraging a common baseline standard for weakness identification, mitigation, and prevention efforts
 
 ---
 
-## CVE<br>Common Vulnerabilities and Exposures
+## Common Vulnerabilities and Exposures (CVE)
 
 - CVE program is overseen by the MITRE corporation <!-- .element: style="font-size:0.9em"-->
-- Funded by CISA (Cybersecurity and Infrastructure Security Agency) - U.S. Department of Homeland Security <!-- .element: style="font-size:0.9em"-->
 - CVE reports can come from anywhere
   - Vendors, researchers; anyone can discover a flaw and bring it to someone’s attention <!-- .element: style="font-size:0.9em"-->
 - A CWE (category) links often to several CVEs <!-- .element: style="font-size:0.9em"-->
 
 ---
 
-## CWE - Example
-
-- https://cwe.mitre.org/data/definitions/200.html
-
----
-
 ### CVE - Example
 
-- https://www.opencve.io/cve?cwe=CWE-200
+- https://www.opencve.io/cve?cwe=CWE-89
