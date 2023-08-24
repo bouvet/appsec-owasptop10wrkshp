@@ -10,7 +10,7 @@ Top 10 web security vulnerabilities
 
 ## Disclaimer
 
-- I'm not an expert <!-- .element: style="font-size:0.9em"-->
+- We're not an experts <!-- .element: style="font-size:0.9em"-->
 - You are an important audience <!-- .element: style="font-size:0.9em"-->
 - Application security is a broad topic <!-- .element: style="font-size:0.9em"-->
 - Our perspective is depended on experience, personal journey within security and many other factors <!-- .element: style="font-size:0.9em"-->
@@ -19,7 +19,7 @@ Top 10 web security vulnerabilities
 
 Note:
 
-- 1: I'm here to learn and share what I've learned so far
+- 1: We're here to learn and share what I've learned so far
 - 3: This workshop zooms in on vulnerabilities in webapps
 
 ---
@@ -60,6 +60,14 @@ Note:
 
 ---
 
+## Who are we?
+
+- Business unit : βiga
+- Recurting cyber security personell
+- Ambition to build capacity for providing application security offerings to teams and customers
+
+---
+
 ## What is - Security Champions
 
 - Newly started community in Bouvet Rogaland
@@ -68,7 +76,6 @@ Note:
 - Be the voice of security within their team
   - Not their responsibility!
 - A safe community there to help
-- Interested? Ping me (Even Tillerli) on slack
 
 ---
 

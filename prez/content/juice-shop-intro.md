@@ -2,7 +2,7 @@
 
 # Juice-Shop Intro
 
-`https://github.com/evtil/juice-shop-playground`
+`https://github.com/Bouvet-deler/juice-shop-playground`
 
 Note:
 
