@@ -68,11 +68,11 @@ Note:
 
 ---
 
-## What is - Security Champions
+## What is - Security Champions?
 
-- Newly started community in Bouvet Rogaland
+- Community in Bouvet Rogaland (and other regions)
 - 80+ members
-- Aim to train and give tools to it's members to adopt security in their daily work (S-SDLC / DevSecOps)
+- Purpose is to train and give tools to it's members to adopt security in their daily work (S-SDLC / DevSecOps)
 - Be the voice of security within their team
   - Not their responsibility!
   - Teamets sikkerhetssamvittighet ...
