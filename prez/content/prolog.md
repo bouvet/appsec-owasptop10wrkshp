@@ -10,11 +10,11 @@ Top 10 web security vulnerabilities
 
 ## Disclaimer
 
-- We're not an experts <!-- .element: style="font-size:0.9em"-->
-- You are an important audience <!-- .element: style="font-size:0.9em"-->
+- We're not experts <!-- .element: style="font-size:0.9em"-->
 - Application security is a broad topic <!-- .element: style="font-size:0.9em"-->
 - Our perspective is depended on experience, personal journey within security and many other factors <!-- .element: style="font-size:0.9em"-->
 - The more we learn about this topics, the more we realise how complex it is <!-- .element: style="font-size:0.9em"-->
+- You are an important audience <!-- .element: style="font-size:0.9em"-->
 - Please share your thoughts, ideas, experiences <!-- .element: style="font-size:0.9em"-->
 
 Note:
@@ -63,19 +63,20 @@ Note:
 ## Who are we?
 
 - Business unit : βiga
-- Recurting cyber security personell
-- Ambition to build capacity for providing application security offerings to teams and customers
+- Recruting cyber security personell / Devs with security skills
+- Build capacity for providing application security services to our customers
 
 ---
 
 ## What is - Security Champions
 
 - Newly started community in Bouvet Rogaland
-- 70+ members
-- Aim to train and give tools to it's members to adopt security in their daily work (SSDLC)
+- 80+ members
+- Aim to train and give tools to it's members to adopt security in their daily work (S-SDLC / DevSecOps)
 - Be the voice of security within their team
   - Not their responsibility!
-- A safe community there to help
+  - Teamets sikkerhetssamvittighet ...
+- A safe community - help / share
 
 ---
 
@@ -85,7 +86,7 @@ Note:
 - 10.00 - 10.50 - Risk A01
 - 11.00 - 11.50 - Risk A02 and Intro to risk A03
 - 12.00 - 12.30ish - **LUNCH**
-- 12.30 - 13.00 - Risk A03 - Demo SQLMap
+- 12.30 - 13.00 - Risk A03
 - 13.00 - 13.50 - Risk A04 / A05
 - 14.00 - 14.50 - Risk A06 / A07
 - 15.00 - 15.50 - Risk A08 / A09 / A10

@@ -32,11 +32,17 @@ compliance requirements
 severity of vulnerabilities in software
 
 ---
-<!-- .slide: data-background-image="./content/images/mark_curphey.jpg" data-background-size="8%" data-background-position="right 9% top 17%"-->
 
 ## ... 4 months earlier
 
-<image src="./content/images/owasp-2001-announcement.jpg" width="35%"/>
+<div style="display: grid; grid-template-columns: auto auto;">
+    <div class="grid-item">
+        <img src="./content/images/owasp-2001-announcement.jpg"/>
+    </div>
+    <div class="grid-item">
+        <img src="./content/images/mark_curphey.jpg"/>
+    </div>
+</div>
 
 ---
 <!-- .slide: data-background-image="./content/images/mark_curphey.jpg" data-background-size="8%" data-background-position="right 9% top 17%"-->
@@ -67,7 +73,15 @@ domain OWASP.org, paid $20 for a hosting account, and I asked people to come hel
 
 ## Mr. Huseby - 🇳🇴
 
-![image](./content/images/mrhus.jpg)
+<div style="display: grid; grid-template-columns: auto auto;">
+    <div class="grid-item">
+        <img src="./content/images/mrhus.jpg"/>
+        "Innocent Code: A security wake-up call for Web Programmers" - 2003
+    </div>
+    <div class="grid-item">
+        <img src="https://m.media-amazon.com/images/I/51GsW4akb+L.jpg"/>
+    </div>
+</div>
 
 ---
 
