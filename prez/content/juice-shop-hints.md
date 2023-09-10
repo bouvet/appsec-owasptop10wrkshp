@@ -139,9 +139,10 @@ Proposed solution to challenges
 1. There seems to be a backup file forgotten - package.json.bak
 1. Download the file above - using "Poison null byte"
 1. Investigate the file for vulnerable packages (dependencies)
-1. Use Snyk Advisor to investigate vulnerable libraries - https://snyk.io/advisor/
+1. Use Snyk Advisor to investigate vulnerable libraries - `https://snyk.io/advisor/`
 1. e.g. "sanitize-html 1.4.2"
 1. Give your feedback in "Customer Feedback" - use Comment box
+1. `https://<yoururl>/ftp/package.json.bak%2500.md`
 
 </code>
 
