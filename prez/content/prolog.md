@@ -67,6 +67,10 @@ Note:
 - Build capacity for providing application security services to our customers
 
 ---
+<!-- .slide: data-background-image="./content/images/appsec-service.jpg" data-background-size="70%" data-background-position="right 40% top 5%"-->
+
+
+---
 
 ## What is - Security Champions?
 
